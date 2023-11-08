@@ -7,4 +7,4 @@
 	url = https://github.com/cran/CGManalyzer
 [submodule "RespirAnalyzer"]
 	path = RespirAnalyzer
-	url = https://github.com/cran/RespirAnalyzer
+	url = https://github.com/dongxinzheng/respiranalyzer
